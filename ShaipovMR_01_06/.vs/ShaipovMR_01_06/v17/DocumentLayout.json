@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|c:\\users\\st310-09\\desktop\\shaipovmr_01_06\\shaipovmr_01_06\\cabelchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|solutionrelative:shaipovmr_01_06\\cabelchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|c:\\users\\st310-09\\desktop\\shaipovmr_01_06\\shaipovmr_01_06\\cabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|solutionrelative:shaipovmr_01_06\\cabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|c:\\users\\st310-09\\desktop\\shaipovmr_01_06\\shaipovmr_01_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42379CC-6837-44CD-8CC3-F57217D7C8AE}|ShaipovMR_01_06\\ShaipovMR_01_06.csproj|solutionrelative:shaipovmr_01_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3CC41F-6910-4656-B667-0A43674F4337}|TESTS\\TESTS.csproj|c:\\users\\st310-09\\desktop\\shaipovmr_01_06\\tests\\cabeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3CC41F-6910-4656-B667-0A43674F4337}|TESTS\\TESTS.csproj|solutionrelative:tests\\cabeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CabelChild.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\CabelChild.cs",
+              "RelativeDocumentMoniker": "ShaipovMR_01_06\\CabelChild.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\CabelChild.cs",
+              "RelativeToolTip": "ShaipovMR_01_06\\CabelChild.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:31:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cabel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\Cabel.cs",
+              "RelativeDocumentMoniker": "ShaipovMR_01_06\\Cabel.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\Cabel.cs",
+              "RelativeToolTip": "ShaipovMR_01_06\\Cabel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:11:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CabelTests.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\TESTS\\CabelTests.cs",
+              "RelativeDocumentMoniker": "TESTS\\CabelTests.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\TESTS\\CabelTests.cs",
+              "RelativeToolTip": "TESTS\\CabelTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:07:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\Program.cs",
+              "RelativeDocumentMoniker": "ShaipovMR_01_06\\Program.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\ShaipovMR_01_06\\ShaipovMR_01_06\\Program.cs",
+              "RelativeToolTip": "ShaipovMR_01_06\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwPoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:07:14.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 427,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
